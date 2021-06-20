@@ -1,6 +1,4 @@
-package _2_factory_method;
-
-import _0_common.User;
+package _0_common;
 
 public class EmailService implements NotificationService {
     @Override

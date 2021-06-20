@@ -1,6 +1,8 @@
 package _1_no_ioc;
 
 import _0_common.Device;
+import _0_common.EmailService;
+import _0_common.NotificationService;
 import _0_common.User;
 
 // called from some other classes

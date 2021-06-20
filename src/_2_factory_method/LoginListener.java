@@ -1,6 +1,7 @@
 package _2_factory_method;
 
 import _0_common.Device;
+import _0_common.NotificationService;
 import _0_common.User;
 
 import static _2_factory_method.ServiceFactory.createNotificationService;
