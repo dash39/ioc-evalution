@@ -7,4 +7,6 @@ public class ServiceFactory {
     public static NotificationService createNotificationService() {
         return new EmailService();
     }
+
+    // some other factory methods here
 }
